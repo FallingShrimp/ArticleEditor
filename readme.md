@@ -15,4 +15,4 @@ Require:
 
 Run server: `python3 server.py`  
 Server running on http://localhost:25565 (Port is changable).  
-A joke: ~~Dont run [Minecraft](https://minecraft.net) server on the same machine.~~
+A joke: ~~Dont run [Minecraft](https://minecraft.net) server on the same machine.~~ 
